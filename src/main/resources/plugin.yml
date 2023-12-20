@@ -1,0 +1,7 @@
+name: BSMachines
+version: '${project.version}'
+main: org.bsdevelopment.machines.BSMachines
+api-version: '1.20'
+authors: [brainsynder]
+description: Adds some blocks/items to help with automation
+website: https://bsdevelopment.org/
